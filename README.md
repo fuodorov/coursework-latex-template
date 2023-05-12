@@ -1,2 +1,1 @@
-# coursework_latex_template
-LaTeX-template for russian coursework
+# LaTeX-шаблон для курсовой работы
